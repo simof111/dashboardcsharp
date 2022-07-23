@@ -1,0 +1,15 @@
+C:\Users\simohamed\Desktop\BootCamp\WinForm\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\simohamed\Desktop\BootCamp\WinForm\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\simohamed\Desktop\BootCamp\WinForm\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\simohamed\Desktop\BootCamp\WinForm\Dashboard\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Users\simohamed\Desktop\BootCamp\WinForm\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\simohamed\Desktop\BootCamp\WinForm\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\simohamed\Desktop\BootCamp\WinForm\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\simohamed\Desktop\BootCamp\WinForm\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\simohamed\Desktop\BootCamp\WinForm\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\simohamed\Desktop\BootCamp\WinForm\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\simohamed\Desktop\BootCamp\WinForm\Dashboard\Dashboard\bin\Debug\CircularProgressBar.dll
+C:\Users\simohamed\Desktop\BootCamp\WinForm\Dashboard\Dashboard\bin\Debug\WinFormAnimation.dll
+C:\Users\simohamed\Desktop\BootCamp\WinForm\Dashboard\Dashboard\bin\Debug\CircularProgressBar.xml
+C:\Users\simohamed\Desktop\BootCamp\WinForm\Dashboard\Dashboard\bin\Debug\WinFormAnimation.xml
+C:\Users\simohamed\Desktop\BootCamp\WinForm\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CopyComplete
